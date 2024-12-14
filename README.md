@@ -1,6 +1,3 @@
-Here's a comprehensive `README.md` file for your ReactJS Real Estate Website project, built with TailwindCSS and Vite.
-
-```markdown
 # Real Estate Website
 
 This is a Real Estate Website built with **ReactJS**, **TailwindCSS**, and **Vite**. The website is designed to showcase real estate listings, provide information about the company, and allow users to contact the team. It features a modern and responsive design, ensuring a seamless experience across different devices.
@@ -41,7 +38,7 @@ Open your terminal and run the following command to clone the repository:
 
 ```bash
 git clone https://github.com/your-username/real-estate-website.git
-```
+
 
 ### 2. Navigate to the project directory
 
